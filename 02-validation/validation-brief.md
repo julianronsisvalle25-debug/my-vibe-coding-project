@@ -10,7 +10,7 @@ Scenario 04 · The Dashboard Nobody Reads
 
 _The one belief that, if false, sinks the idea._
 
-The data/insights are available in the data being presented.
+Users can understand and trust a guided insight well enough to investigate it and act on it without reverting to Excel.
 
 ## Hypothesis
 
