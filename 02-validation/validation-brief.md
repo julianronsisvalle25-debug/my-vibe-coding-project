@@ -14,7 +14,7 @@ Users can understand and trust a guided insight well enough to investigate it an
 
 ## Hypothesis
 
-> We believe **leading with insights supported by the right data** will cause **users to engage more with the dashboard** for **the leaders looking to really know what's driving their business**. We'll know we're right when **when users stop exporting data into excel.**.
+We believe leading with a clear, evidence-backed insight and recommended action will cause enterprise leaders to investigate the insight and rely less on Excel for analysis. We'll know we're right when users can identify the driver, inspect the supporting evidence, and choose an action without exporting the underlying data.
 
 ## Risk type
 
