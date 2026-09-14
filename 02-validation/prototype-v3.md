@@ -10,7 +10,7 @@ https://dashboard-nobody-reads-jrtradingcontext.replit.app/
 
 _Tie it back to the validation brief: which assumption does this prototype put in front of a user?_
 
-That insights will keep them on the dashboard exploring more.
+That insights will keep them on the dashboard exploring more without needing to export into excel.
 
 ## Context injected (no placeholders)
 
